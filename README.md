@@ -20,9 +20,12 @@ De acordo com o documento de Regulamento do TCC do IFPE:
 
 Para mais informações acesse o documento: [Regulamento do TCC do IFPE](./Regulamento%20do%20TCC%20do%20IFPE.pdf)
 
-## 📑 Documentos necessários para o TCC
-tem váriossss
+## 🧑🏽‍🏫 Áreas de Orientação por professor
 
+1. [2022](./areasDeOrientacao/2022.pdf)
+
+## 📑 Documentos necessários para orientação do TCC
+listagem ou tabela com eles
 ## Catálogo de Trabalhos aprovados no Bacharelado em Engenharia de Software
 
 ### Aprovados em 2023 🎊
