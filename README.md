@@ -32,10 +32,11 @@ Para mais informações acesse o documento: [Regulamento do TCC do IFPE](./Regul
 |[Termo de Compromisso de Orientação Voluntária do TCC](./Documentos%20Necessarios/TERMO%20DE%20COMPROMISSO%20DE%20ORIENTA%C3%87%C3%83O%20%20VOLUNT%C3%81RIA%20DO%20TCC.docx)|[Termo de Afastamento de Orientação de Trabalho de Conclusão de Curso Docente-Orientador](./Documentos%20Necessarios/TERMO%20DE%20AFASTAMENTO%20DE%20ORIENTA%C3%87%C3%83O%20DE%20TRABALHO%20DE%20CONCLUS%C3%83O%20DE%20CURSO%20DOCENTE-ORIENTADOR.docx)|[Cronograma de Atividades de Encontros](./Documentos%20Necessarios/CRONOGRAMA%20DE%20ATIVIDADES%20DE%20ENCONTROS.docx)|
 |[Termo de Compromisso e Responsabilidade do Orientando](./Documentos%20Necessarios/TERMO%20DE%20COMPROMISSO%20E%20RESPONSABILIDADE%20DO%20ORIENTANDO.docx)| &nbsp; | &nbsp; |
 
-|Modelo em Latex| Ficha Avaliativa | Termo de Depósito |
+|Modelos| Ficha Avaliativa | Termo de Depósito |
 |:-------------:|:----------------:|:-----------------:|
-|[Modelo em PDF](./Documentos%20Necessarios/modelo%20em%20latex/modeloLatex.pdf)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
-|[Link do modelo na platafortma Overleaft](https://www.overleaf.com/read/jvgkftsncpnk)|
+|[Modelo do TCC em PDF](./Documentos%20Necessarios/modelo%20em%20latex/modeloLatex.pdf)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
+|[Modelo do Pré-projeto de TCC na plataforma Overleaf](https://www.overleaf.com/read/nwhjgzjvpprg)|
+|[Modelo do TCC na plataforma Overleaf](https://www.overleaf.com/read/jvgkftsncpnk)|
 ## 📖 Catálogo de Trabalhos aprovados no Bacharelado em Engenharia de Software
 ### Aprovados em 2023 🎊
 <h4 align="center"> 
