@@ -34,9 +34,9 @@ Para mais informações acesse o documento: [Regulamento do TCC do IFPE](./Regul
 
 |Modelos| Ficha Avaliativa | Termo de Depósito |
 |:-------------:|:----------------:|:-----------------:|
-|[Modelo do TCC em PDF](./Documentos%20Necessarios/modelo%20em%20latex/modeloLatex.pdf)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
+|[Modelo do TCC na plataforma Overleaf](https://www.overleaf.com/read/rrgyvvdqxbsn)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
 |[Modelo do Pré-projeto de TCC na plataforma Overleaf](https://www.overleaf.com/read/nwhjgzjvpprg)|
-|[Modelo do TCC na plataforma Overleaf](https://www.overleaf.com/read/rrgyvvdqxbsn)|
+
 ## 📖 Catálogo de Trabalhos aprovados no Bacharelado em Engenharia de Software
 ### Aprovados em 2023 🎊
 <h4 align="center"> 
