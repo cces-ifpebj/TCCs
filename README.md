@@ -18,7 +18,7 @@ De acordo com o documento de Regulamento do TCC do IFPE:
   <li>garantir ao estudante o aprofundamento de seus estudos em uma temática relacionada ao perfil de formação do seu curso.</li>
 </ol>
 
-Para mais informações acesse o documento: [Regulamento do TCC do IFPE](./Regulamento%20do%20TCC%20do%20IFPE.pdf)
+Para mais informações acesse o documento: [Regulamento do TCC do IFPE](https://www.ifpe.edu.br/o-ifpe/conselho-superior/resolucoes/resolucoes-2023/resolucao-195-2023-aprova-o-novo-regulamento-das-atividades-dos-trabalhos-de-conclusao-dos-cursos-de-graduacao-do-ifpe-e-revoga-a-resolucao-no-81-2011.pdf/@@download/file/Resoluc%CC%A7a%CC%83o%20195%202023%20Aprova%20o%20novo%20Regulamento%20das%20Atividades%20dos%20Trabalhos%20de%20Conclusa%CC%83o%20dos%20Cursos%20de%20Graduac%CC%A7a%CC%83o%20do%20IFPE%20e%20revoga%20a%20Resoluc%CC%A7a%CC%83o%20n%C2%BA%2081%202011.pdf)
 
 ## 🧑🏽‍🏫 Áreas de Orientação por professor
 
